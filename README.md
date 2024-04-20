@@ -1,2 +1,2 @@
-Single page application Quiz App
-Using context
+Single page application Quiz App by PedroTech
+
